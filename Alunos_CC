@@ -1,0 +1,54 @@
+//Correção ou rascunho de um exercicio presente em sala de aula
+
+#include<iostream>
+#include<stdlib>
+#include<stdlib.h>
+#include<fstream>
+#include<ioman.p>
+#include<STDIO.H>
+
+using namespace: std;
+
+
+
+
+struct dados_do_aluno
+{
+ int nome_do aluno;
+ int matricula;
+ int email;
+
+}
+void.ler(string_Meuarquivo);
+
+
+
+int main(){
+cout <<"nome do aluno/ matricula/ email" << endl;
+
+ofstream outClientFile("client.dat", ios::out);
+
+cout << "Insira o nome completo" << "Enter end-of-file to end input. \n?";
+
+int nome_do_aluno[15];
+int matricula[15];
+int email[15];
+while (leitura.eof())
+
+// leitura >> nome_do_aluno >> matricula >> email;
+
+cout<< email << ''<<matricula< ''<<nome_do_aluno << endl;
+cout <<"?";
+
+
+return 0;
+}
+//exibir rigistro do arquivo 
+
+{
+
+
+
+
+
+}
